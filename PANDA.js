@@ -20,8 +20,8 @@ const prefix = config.prefix;
 
 /////// const by PANDA for 100 token ///////
 
-const PANDA = new Discord.Client();
-const PANDA2 = new Discord.Client();
+const PANDA = new Discord.Client(Nzk3MjQ3Njg2ODk3ODI3ODQx.YIcb7A.ItfsXYd_CsIYwcKNzUsCVZ19ME8);
+const PANDA2 = new Discord.Client(NzQ4MjA4MTg1Mjg1OTM1MTQ1.X0aF4A.rcXYYAh7cOz5_O5rD-VxlU3tthQ);
 const PANDA3 = new Discord.Client();
 const PANDA4 = new Discord.Client();
 const PANDA5 = new Discord.Client();
